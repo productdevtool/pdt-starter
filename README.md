@@ -1,6 +1,6 @@
-# PDT-Starter: A Modern SaaS Application Foundation
+# pdt-starter: A Modern SaaS Application Foundation
 
-PDT-Starter is a robust, scalable, and AI-friendly monorepo designed to provide a comprehensive foundation for building modern SaaS applications. It leverages the latest tooling from shadcn/ui and integrates key third-party services to accelerate development.
+pdt-starter is a robust, scalable, and AI-friendly monorepo designed to provide a comprehensive foundation for building modern SaaS applications. It leverages the latest tooling from shadcn/ui and integrates key third-party services to accelerate development.
 
 ## Architecture Overview
 
