@@ -34,10 +34,12 @@ export function Header() {
         </div>
         <div className="flex flex-1 items-center justify-end space-x-4">
           <nav className="flex items-center space-x-1">
-            <Button size="sm" variant="ghost">
-              Sign In
+            <Button asChild size="sm" variant="ghost">
+              <Link href="http://localhost:3303/signin">Sign In</Link>
             </Button>
-            <Button size="sm">Sign Up</Button>
+            <Button asChild size="sm">
+              <Link href="http://localhost:3303/signup">Sign Up</Link>
+            </Button>
           </nav>
         </div>
       </div>
