@@ -87,7 +87,7 @@ This revised plan leverages the shadcn/ui CLI for a streamlined monorepo setup.
 ### **Phase 3: Component Installation**
 
 6. **Install shadcn/ui Components**
-   * **Spec**: cd into the apps/website directory. Run npx shadcn-ui@latest add \[component-name\] for each of the following components: Button, Card, DropdownMenu, Input, Label, Select, Avatar, Toast, Table, Dialog, Accordion, Badge, NavigationMenu. The CLI will automatically place the component source code in packages/ui and make them available to all apps.
+   * **Spec**: cd into the apps/website directory. Run npx shadcn@latest add \[component-name\] for each of the following components: Button, Card, DropdownMenu, Input, Label, Select, Avatar, Toast, Table, Dialog, Accordion, Badge, NavigationMenu. The CLI will automatically place the component source code in packages/ui and make them available to all apps.
 
 ### **Phase 4: Building the Applications**
 
